@@ -1,4 +1,7 @@
 # Nicholas-Sean-Rocket-Launch
+https://github.com/pitt1321/Nicholas-Sean-Rocket-Launch
+Nicholas & Sean
+
 Final Project
 Computational Methods Final Project Proposal
 
